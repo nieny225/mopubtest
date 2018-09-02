@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/nickyang/Projects/mopub-android-sdk/mopub-sdk/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_fastforward.png",
+        "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.4.aar/ca88fb5ada024a238058708d8f023e13/res/drawable-ldpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/Users/nickyang/Projects/mopub-android-sdk/mopub-sdk/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_pause.png",
+        "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.4.aar/ca88fb5ada024a238058708d8f023e13/res/drawable-ldpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/Users/nickyang/Projects/mopub-android-sdk/mopub-sdk/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_rewind.png",
+        "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.4.aar/ca88fb5ada024a238058708d8f023e13/res/drawable-ldpi-v4/exo_controls_rewind.png"
+    },
+    {
+        "merged": "/Users/nickyang/Projects/mopub-android-sdk/mopub-sdk/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_next.png",
+        "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.4.aar/ca88fb5ada024a238058708d8f023e13/res/drawable-ldpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/Users/nickyang/Projects/mopub-android-sdk/mopub-sdk/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_edit_mode_logo.png",
+        "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.4.aar/ca88fb5ada024a238058708d8f023e13/res/drawable-ldpi-v4/exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "/Users/nickyang/Projects/mopub-android-sdk/mopub-sdk/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_play.png",
+        "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.4.aar/ca88fb5ada024a238058708d8f023e13/res/drawable-ldpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/Users/nickyang/Projects/mopub-android-sdk/mopub-sdk/build/intermediates/res/merged/debug/drawable-ldpi-v4/exo_controls_previous.png",
+        "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.4.aar/ca88fb5ada024a238058708d8f023e13/res/drawable-ldpi-v4/exo_controls_previous.png"
+    }
+]

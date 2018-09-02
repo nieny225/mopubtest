@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/nickyang/Projects/mopub-android-sdk/mopub-sdk/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
+            "map": [
+                {
+                    "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f8edb1caee146413913bfe33276b33fe/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "572",
+                        "endColumns": "100",
+                        "endOffsets": "668"
+                    }
+                },
+                {
+                    "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.4.aar/ca88fb5ada024a238058708d8f023e13/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,140,211,278,348,428,505",
+                        "endColumns": "84,70,66,69,79,76,66",
+                        "endOffsets": "135,206,273,343,423,500,567"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/nickyang/Projects/mopub-android-sdk/mopub-sdk/build/intermediates/res/merged/debug/values-sv/values-sv.xml",
+            "map": [
+                {
+                    "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f8edb1caee146413913bfe33276b33fe/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "572",
+                        "endColumns": "100",
+                        "endOffsets": "668"
+                    }
+                },
+                {
+                    "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.4.aar/ca88fb5ada024a238058708d8f023e13/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,140,211,278,348,428,505",
+                        "endColumns": "84,70,66,69,79,76,66",
+                        "endOffsets": "135,206,273,343,423,500,567"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 27
+    defaultConfig {
+        applicationId "com.cmplay.mopubtest"
+        minSdkVersion 16
+        targetSdkVersion 27
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+repositories {
+//    flatDir {
+//        dirs 'libs'
+//    }
+}
+dependencies {
+//    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support:design:27.1.1'
+    implementation 'com.android.support:support-v4:27.1.1'
+    implementation 'com.google.android.gms:play-services-ads:15.0.1'
+    implementation project(':mopub-sdk')
+//    compile('com.mopub:mopub-sdk:5.3.0@aar') {
+//        transitive = true
+//        exclude module: 'libAvid-mopub' // To exclude AVID
+//        exclude module: 'moat-mobile-app-kit' // To exclude Moat
+//    }
+//    compile(name: 'mopub-sdk-5.2.0', ext: 'aar')
+//    compile(name: 'mopub-sdk-base-5.2.0', ext: 'aar')
+//    compile(name: 'mopub-sdk-banner-5.2.0', ext: 'aar')
+//    compile(name: 'mopub-sdk-interstitial-5.2.0', ext: 'aar')
+//    compile(name: 'mopub-sdk-rewardedvideo-5.2.0', ext: 'aar')
+//    compile(name: 'mopub-volley-2.0.0', ext: 'aar')
+}
+
+
+

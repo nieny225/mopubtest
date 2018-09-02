@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/nickyang/Projects/mopub-android-sdk/mopub-sdk/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f8edb1caee146413913bfe33276b33fe/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/nickyang/Projects/mopub-android-sdk/mopub-sdk/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f8edb1caee146413913bfe33276b33fe/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/nickyang/Projects/mopub-android-sdk/mopub-sdk/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f8edb1caee146413913bfe33276b33fe/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/nickyang/Projects/mopub-android-sdk/mopub-sdk/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/nickyang/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f8edb1caee146413913bfe33276b33fe/res/drawable/notification_tile_bg.xml"
+    }
+]
